@@ -6,7 +6,7 @@ Afficher l'image
 Afficher l'image
 Afficher l'image
 
-⚠ Avertissement légal
+!! Avertissement légal
 Pour tests autorisés uniquement. Toujours obtenir une autorisation écrite avant d'utiliser cet outil. Les auteurs déclinent toute responsabilité en cas d'utilisation abusive.
 
 Le problème
@@ -23,13 +23,13 @@ Démonstration
   15 techniques — niveaux L1 (subtil) → L3 (agressif)
 
   [L1] [01/15] Répétition directe
-    ·  score=0.00  aucun signal
+      score=0.00  aucun signal
 
   [L2] [07/15] Extraction par balises XML
-    ▲  score=0.35  SIGNAL PARTIEL — balise XML system détectée
+     score=0.35  SIGNAL PARTIEL — balise XML system détectée
 
   [L3] [14/15] Reset de contexte
-    ⚡ score=0.80  FUITE PROBABLE — règle d'interdiction détectée
+     score=0.80  FUITE PROBABLE — règle d'interdiction détectée
 
 ══════════════════════════════════════════
   Meilleur score : 0.80  (FUITE PROBABLE)
