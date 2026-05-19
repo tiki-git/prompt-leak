@@ -1,0 +1,9 @@
+# Rust build artifacts
+target/
+
+# Rapports générés
+*.md
+!README.md
+
+# Fichiers système
+.DS_Store
